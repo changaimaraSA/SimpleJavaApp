@@ -12,5 +12,8 @@ class Main {
         System.out.println(x+y);
         System.out.println(x-y);
         System.out.println(x*y);
+
+        System.out.println("my code is better than yours");
+        System.out.println("from ivy");
     }
 }

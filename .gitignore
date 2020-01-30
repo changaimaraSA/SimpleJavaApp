@@ -5,3 +5,5 @@
 build
 
 *.class
+*.code-workspace
+*.org.eclipse.buildship.core.prefs
